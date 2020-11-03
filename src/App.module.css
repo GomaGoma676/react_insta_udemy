@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Playball&display=swap");
+* {
+  margin: 0;
+}
+.app {
+  background-color: #fafafa;
+  height: 100%;
+}
